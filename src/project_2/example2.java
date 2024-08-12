@@ -8,6 +8,7 @@ public class class_1 {
 	public void display() // display is the method
 	{
 		System.out.println("Welcome to all of you");
+		System.out.println("Changes done by sukerti");
 	}
 	public static void main(String[] args) {
 		class_1 sukerti=new class_1();
